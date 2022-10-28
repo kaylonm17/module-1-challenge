@@ -4,5 +4,7 @@ Other changes made to the web page included css optimization, which knocked off 
 ![](2022-10-27-18-26-51.png)
 ![](2022-10-27-18-27-13.png)
 
-repository link git@github.com:kaylonm17/module-1-challenge.git
-web link kaylonm17.github.io
+    repository link: git@github.com:kaylonm17/module-1-challenge.git
+
+
+    web link: https://kaylonm17.github.io/module-1-challenge/
